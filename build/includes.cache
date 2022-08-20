@@ -1,0 +1,52 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/kingo/.arduino15/packages/arduino/hardware/avr/1.8.5/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/kingo/.arduino15/packages/arduino/hardware/avr/1.8.5/variants/standard"
+  },
+  {
+    "Sourcefile": "/home/kingo/Documents/Arduino Projects/maze-solver/build/sketch/maze-solver.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "/home/kingo/.arduino15/packages/arduino/hardware/avr/1.8.5/libraries/Wire/src"
+  },
+  {
+    "Sourcefile": "/home/kingo/Documents/Arduino Projects/maze-solver/build/sketch/maze-solver.ino.cpp",
+    "Include": "MPU6050_light.h",
+    "Includepath": "/home/kingo/Documents/Arduino Projects/libraries/MPU6050_light/src"
+  },
+  {
+    "Sourcefile": "/home/kingo/Documents/Arduino Projects/maze-solver/build/sketch/maze-solver.ino.cpp",
+    "Include": "LiquidCrystal_I2C.h",
+    "Includepath": "/home/kingo/Documents/Arduino Projects/libraries/Arduino-LiquidCrystal-I2C-library-master"
+  },
+  {
+    "Sourcefile": "/home/kingo/Documents/Arduino Projects/maze-solver/build/sketch/maze-solver.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/kingo/.arduino15/packages/arduino/hardware/avr/1.8.5/libraries/Wire/src/Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/kingo/.arduino15/packages/arduino/hardware/avr/1.8.5/libraries/Wire/src/utility/twi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/kingo/Documents/Arduino Projects/libraries/MPU6050_light/src/MPU6050_light.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/kingo/Documents/Arduino Projects/libraries/Arduino-LiquidCrystal-I2C-library-master/LiquidCrystal_I2C.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
